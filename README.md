@@ -11,3 +11,6 @@ The study compares four deep learning architectures:
 The models are evaluated on two univariate time-series datasets:
 1. Apple (AAPL) stock prices
 2. Melbourne daily minimum temperature dataset
+
+******************************************************************************************************************
+For further insights into the implementation and experimental results, you are encouraged to consult the document titled 'Manuscript.pdf'.
